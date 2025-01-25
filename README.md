@@ -9,6 +9,8 @@ mod for [Quilt](https://quiltmc.org)
 
 A Minecraft mod that adds the IKEA BLÅHAJ Soft toy shark and a giant bread pillow as items.
 
+note that i (gæmer) am a lazy fuck and did this just to have it work on the celestia smp pack
+
 ![Players holding Blåhaj](./.pretty_readme/banner.png)
 
 | Item             | Preview                                                           | Recipe                                                                      |
