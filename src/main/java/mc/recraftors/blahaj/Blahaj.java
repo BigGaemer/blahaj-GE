@@ -137,6 +137,6 @@ public class Blahaj implements ModInitializer {
         Optional<RegistryEntryList.Named<Item>> named = Registries.ITEM.getEntryList(tag);
         if (named.isEmpty()) return null;
         int i = named.get().size();
-        return named.get().get(RANDOM.nextInt(i)).comp_349();
+        return (@Nullable Item) named.get().get(RANDOM.nextInt(i));
     }
 }

@@ -19,18 +19,12 @@
     "RecipeManagerMixin",
     "ServerRecipeBookMixin",
     "compat.andromeda.present.AutoAdvGenerationMixin",
-    "compat.immersive_melodies.present.ItemsMixin",
-    "compat.travelersbackpack.present.ModBlockEntityTypesMixin",
-    "compat.travelersbackpack.present.ModBlocksMixin",
-    "compat.travelersbackpack.present.ModItemGroupsMixin",
-    "compat.travelersbackpack.present.ModItemsMixin",
-    "compat.travelersbackpack.present.ResourceUtilsMixin"
+    "compat.immersive_melodies.present.ItemsMixin"
   ],
   "client": [
     "ClientPlayNetworkHandlerMixin",
     "compat.notenoughanimations.present.HeldItemHandlerMixin",
     "compat.notenoughanimations.present.SleepAnimationMixin",
-    "compat.travelersbackpack.and.trinkets.TravelersBackpackWearableModelMixin",
     "compat.trinkets.present.BlahajMixin",
     "compat.trinkets.present.CapeFeatureRendererMixin",
     "compat.trinkets.present.CuddlyItemMixin",

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "blahaj",
   "version": "${version}",
-  "name": "Blahaj Expanded",
+  "name": "Blahaj Expanded - Gæmer Edition",
   "description": "BLAHAJ",
   "authors": [
     {
@@ -32,12 +32,19 @@
       "contact": {
         "homepage": "https://github.com/kckarnige"
       }
+    },
+    {
+      "name": "Gæmer",
+      "role": "dipshit",
+      "contact": {
+        "homepage": "https://github.com/BigGaemer"
+      }
     }
   ],
   "contact": {
-    "sources": "https://github.com/RecraftorsMC/blahaj",
-    "homepage": "https://modrinth.com/mod/mcr_blahaj",
-    "issues": "https://github.com/RecraftorsMC/blahaj/issues"
+    "sources": "https://github.com/BigGaemer/blahaj-GE",
+    "homepage": "https://github.com/BigGaemer/blahaj-GE",
+    "issues": "https://github.com/BigGaemer/blahaj-GE/issues"
   },
   "license": "GPL 3.0",
   "icon": "assets/blahaj/icon.png",
